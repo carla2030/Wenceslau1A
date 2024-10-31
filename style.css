@@ -18,7 +18,7 @@ section{
 img {
     height: 200px;
 }
-.sugestão de videos {
+.sugestoes-de-videos {
     display: flex;
     overflow: auto;
     gap: 10px;
